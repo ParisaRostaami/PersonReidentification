@@ -5,7 +5,7 @@
 <div align="center">
 
 
-[![Contact](https://img.shields.io/badge/contact-Parisarostaamii@gmail.com%40example.com-yellow.svg)](mailto:Parisarostaamii@gmail.com)
+[![Contact](https://img.shields.io/badge/contact-Parisarostaamii@gmail.com-yellow.svg)](mailto:Parisarostaamii@gmail.com)
 
 </div>
 
